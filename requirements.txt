@@ -1,0 +1,5 @@
+requests
+time
+BeautifulSoup
+bs4
+urllib
